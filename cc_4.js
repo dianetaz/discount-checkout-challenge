@@ -57,7 +57,7 @@ let products = [
     console.log(`Customer #${i} (${customerType}) - Total after discount: $${total.toFixed(2)}`);
   }
   
-  // Use for...in on a product after discounts
+  // Product details after discounts
   console.log("\nProduct details after discounts:");
   let sampleProduct = products[0];
   for (let key in sampleProduct) {
