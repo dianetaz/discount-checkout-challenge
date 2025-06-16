@@ -3,7 +3,7 @@ let products = [
     { name: "Cell Phone", category: "electronics", price: 1000, inventory: 5 },
     { name: "Mom Jeans", category: "apparel", price: 45, inventory: 10 },
     { name: "Strawberries", category: "groceries", price: 1, inventory: 50 },
-    { name: "Windex", category: "household", price: 10, inventory: 20 },
+    { name: "Broom", category: "household", price: 10, inventory: 20 },
     { name: "Pencils", category: "stationary", price: 15, inventory: 12 }
   ];
   
