@@ -4,7 +4,7 @@ let products = [
     { name: "Mom Jeans", category: "apparel", price: 45, inventory: 10 },
     { name: "Strawberries", category: "groceries", price: 1, inventory: 50 },
     { name: "Windex", category: "household", price: 10, inventory: 20 },
-    { name: "Book", category: "books", price: 15, inventory: 12 }
+    { name: "Pencils", category: "stationary", price: 15, inventory: 12 }
   ];
   
   //  Apply category-based discount
