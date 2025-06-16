@@ -26,7 +26,7 @@ let products = [
     }
   }
   
-  // Define customer types and extra discounts
+  // Define customer types & extra discounts
   const customerTypes = ["regular", "student", "senior"];
   
   function applyCustomerDiscount(total, customerType) {
